@@ -1,5 +1,5 @@
 
-# MEO3 - Análisis Predictivo de Accidentes de Tránsito en Bogotá
+# MEO4 - Análisis Predictivo de Accidentes de Tránsito en Bogotá
 
 Este proyecto forma parte de la Universidad de Antioquia, en el marco de la Especialización en Analítica y Ciencia de Datos. El trabajo fue desarrollado como un seminario académico, utilizando Python para el análisis y procesamiento de datos.
 
