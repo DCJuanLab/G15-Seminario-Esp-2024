@@ -35,7 +35,8 @@ pip install numpy pandas matplotlib seaborn scikit-learn scipy
 | `ME03.ipynb`                      | Notebook principal con el desarrollo completo del proyecto.                       |
 | `Gravedad.xls`                    | Tabla procesada para aplicar modelos de machine learning y predecir la gravedad. |
 | `Frecuencia.xls`                  | Tabla procesada para aplicar modelos de series de tiempo y predecir la frecuencia de accidentes. |
-| `SIGAT_ANUARIO_2023`              | Tablas de informacion de siniestros viales del año 2023.(https://datos.movilidadbogota.gov.co/search?groupIds=d3812f8315054cdc84cf744680103713) |
+| `SIGAT_ANUARIO_2023.xls`              | Tablas de informacion de siniestros viales del año 2023.(https://datos.movilidadbogota.gov.co/search?groupIds=d3812f8315054cdc84cf744680103713) |
+| `Diccionario de Datos.xls`                  | Tabla con el diccionario de los campos, tabla con los campos utilizados. |
 ## Cómo ejecutar el notebook
 
 1. Clone o descargue este repositorio en su máquina local.
